@@ -1,4 +1,4 @@
-# shopper-intent-prediction
+# shopper-intent-prediction-model
 Link to research paper: <br>
 https://www.nature.com/articles/s41598-020-73622-y
 
